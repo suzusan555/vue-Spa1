@@ -1,3 +1,6 @@
+# はじめに
+Vue.jsでSPAを自身で作成してみようと思い立ち上げました
+
 # vue_spa1
 
 ## Project setup
